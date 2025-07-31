@@ -74,3 +74,39 @@ body{
     border-radius: 46px;
     padding: 8px 20px;
 }
+.hidden{
+    display: none;
+}
+/* RESPONSIVE FOR MOBILE DEVICES (NAVBAR) */
+.navbar{
+    
+}
+.navbar h3{
+    margin-left: 20px;
+}
+.nav img{
+    width: 24px;
+    height: 24px;
+    margin-top: 67px;
+    margin-right: 20px;
+
+}
+.navbar ul{
+    display: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    height: 43px;
+    margin: 0px;
+}
+
+
+
+
+/* STYLES OF CONTENT AND BUTTON (NAVBAR) */
+/* .content h1{
+    font-size: 78px;
+    line-height: 120%;
+} */
