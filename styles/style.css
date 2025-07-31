@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+/* FONTS */
+.inter-normal {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Miama Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Miama Regular'), url(../fonts/Miama-Regular.woff) format('woff');
+}
+
+@font-face {
+    font-family: 'Miama';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Miama'), url(../fonts/Miama.woff) format('woff');
+}
+/* COMMON STYLES */
+.color{
+    color: #E6533C;
+}
